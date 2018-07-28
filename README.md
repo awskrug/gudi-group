@@ -1,6 +1,6 @@
 # AWSKRUG #gudi(구로디지털) 모임
 
-<p style="font-size: 2em; color: white; font-weight: bold; width: 100%; text-align: center; background-color: skyblue; border-radius: .5em; padding: 1em 0em;">AWSKRUG#gudi</p>
+<img src="images/awskrug_gudi_icon.png" width="400"/>
 
 - since 2017
 - [AWSKRUG Facebook Link](https://www.facebook.com/groups/awskrug/)
