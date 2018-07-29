@@ -20,8 +20,7 @@
 ## 18차 모임 : [CloudFront+S3를 활용한 CDN 구성법](https://www.meetup.com/ko-KR/awskrug/events/251465327/)
   - **일시** : 2018년 6월 18일
   - **발표자 : 발표주제**
-    - 방신철님
-: CloudFront+S3를 활용한 CDN 구성법, 간단하게 CDN을 활용한 이미지 불러오는 실습까지~!
+    - 방신철님 : CloudFront+S3를 활용한 CDN 구성법, 간단하게 CDN을 활용한 이미지 불러오는 실습까지~!
 
 ## 17차 모임 : [Lambda 로컬테스트부터 배포까지](https://www.meetup.com/ko-KR/awskrug/events/250393682/)
   - **일시** : 2018년 5월 15일
@@ -37,7 +36,7 @@
   - **일시** : 2018년 3월 20일
   - **발표자 : 발표주제**
     - 이재구님 : AWS와 만나기 까지
-    - 이영경님 : ASG 끝판왕 깨기
+    - 이영경님 : [ASG 끝판왕 깨기](http://sori-nori.gitlab.io/youngkyung-done/ASG-1/)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-15_1.jpeg" width="400"/>
       <img src="images/guro-15_2.jpeg" width="400"/>
@@ -70,14 +69,14 @@
 ## 10차 모임 : [RDS Aurora 생초보 unboxing](https://www.meetup.com/ko-KR/awskrug/events/243387487/)
   - **일시** : 2017년 9월 26일
   - **발표자 : 발표주제**
-    - 김창겸님 : RDS Aurora 생초보 unboxing
+    - 김창겸님 : [RDS Aurora 생초보 unboxing](https://www.slideshare.net/changkyumkim/rds-aurora-unboxing-80367207)
  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-10_1.jpeg" width="400"/>
 
 ## 9차 모임 : [CodeStar와 MobileHub 사용기 & Amazon Seattle방문후기](https://www.meetup.com/ko-KR/awskrug/events/242911924/)
   - **일시** : 2017년 9월 5일
   - **발표자 : 발표주제**
-    - 강효진님 : "AWS DevOps 준비운동 - CodeStar와 MobileHub으로 보는 웹과 모바일의 개발/운영 비교"
+    - 강효진님 : ["AWS DevOps 준비운동 - CodeStar와 MobileHub으로 보는 웹과 모바일의 개발/운영 비교"](https://www.slideshare.net/kaojinz/aws-codestar-aws-mobilehub)
     - 김영헌님 : Amazon-시애틀 방문(여행) 후기
 
 ## 8차 모임 : [개발과 운영의 조화 DevOps, 여러분은 어떻게 생각하시나요?](https://www.meetup.com/awskrug/events/242238839/)
@@ -92,7 +91,7 @@
 ## 7차 모임 : [AWS Community Days Review](https://www.meetup.com/awskrug/events/241776984/)
   - **일시** : 2017년 7월 26일
   - **발표자 : 발표주제**
-    - 강효진님 - ElasticBeanstalk - 콩과의 대화
+    - 강효진님 - [ElasticBeanstalk - 콩과의 대화](https://www.slideshare.net/awskr/elasticbeanstalk-77390280)
     - 김영헌님 - [개인 지출 관리, AWS Lambda로 시작하기](https://youtu.be/OXpJSKcl_Jg)
 
 ## 6차 모임 : [AWS Greenglass맛보기 & tyle에서 사용한 AWS 후기](https://www.meetup.com/awskrug/events/241106610/)
