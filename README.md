@@ -20,7 +20,7 @@
 ## 18차 모임 : [CloudFront+S3를 활용한 CDN 구성법](https://www.meetup.com/ko-KR/awskrug/events/251465327/)
   - **일시** : 2018년 6월 18일
   - **발표자 : 발표주제**
-    - 방신철님 : CloudFront+S3를 활용한 CDN 구성법, 간단하게 CDN을 활용한 이미지 불러오는 실습까지~!
+    - 방신철님 : [CloudFront+S3를 활용한 CDN 구성법, 간단하게 CDN을 활용한 이미지 불러오는 실습까지~!](https://github.com/BangShinChul/AWS-CloudFront-S3)
 
 ## 17차 모임 : [Lambda 로컬테스트부터 배포까지](https://www.meetup.com/ko-KR/awskrug/events/250393682/)
   - **일시** : 2018년 5월 15일
@@ -50,7 +50,7 @@
 ## 13차 모임 : [2017 AWS re:Invent 후기 - Amazon Aurora & Amazon MQ](https://www.meetup.com/ko-KR/awskrug/events/246703948/)
   - **일시** : 2018년 1월 17일
   - **발표자 : 발표주제**
-    - 이영헌님 : 2017 AWS re:Invent recap: Amazon Aurora
+    - 김영헌님 : 2017 AWS re:Invent recap: Amazon Aurora
     - 장준엽님 : 2017 re:Invent 신규 서비스 사용기 - Amazon MQ
 
 ## 12차 모임 : [Cloudwatch with Slack(slack으로 일하기)](https://www.meetup.com/ko-KR/awskrug/events/245226473/)
