@@ -13,7 +13,7 @@
 ## 20차 모임 : [Ansible을 활용한 Configuration Management Tool & 활용 사례](https://www.meetup.com/ko-KR/awskrug/events/254435002/)
   - **일시** : 2018년 9월 18일
   - **발표자 : 발표주제**
-    -  심호진님 : [Ansible을 활용한 Configuration Management Tool & 활용 사례](./presentation/Ansible발표-심호진.pdf)
+    -  심호진님 : [Ansible을 활용한 Configuration Management Tool & 활용 사례](https://www.slideshare.net/StevenShim/ansible-configuration-management-tool-115582091)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-20_1.jpg" width="400"/><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-20_2.jpg" width="400"/>
