@@ -10,6 +10,14 @@
 
 
 # Meetups
+## 21차 모임 : [AWS CodeStar를 이용한 serverless Application 구축](https://www.meetup.com/ko-KR/awskrug/events/255357068/)
+  - **일시** : 2018년 10월 16일
+  - **발표자 : 발표주제**
+    -  박태성님 : [AWS CodeStar를 이용한 serverless Application 구축](https://www.slideshare.net/TaeSeongPark2/awskrug-aws-codestar-serverless-application)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-21_1.jpg" width="400"/><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-21_2.jpg" width="400"/>
+
 ## 20차 모임 : [Ansible을 활용한 Configuration Management Tool & 활용 사례](https://www.meetup.com/ko-KR/awskrug/events/254435002/)
   - **일시** : 2018년 9월 18일
   - **발표자 : 발표주제**
