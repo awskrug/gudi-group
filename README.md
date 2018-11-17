@@ -10,6 +10,14 @@
 
 
 # Meetups
+## 22차 모임 : [DevOps Series] [Ansible & Packer 를 활용한 AMI 기반 배포 HandsOn](https://www.meetup.com/ko-KR/awskrug/events/256197701/)
+  - **일시** : 2018년 11월 13일
+  - **발표자 : 발표주제**
+    -  심호진님 : [Ansible & Packer 를 활용한 AMI 기반 배포 HandsOn](https://github.com/stevenshim/ansible-packer-hands-on)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://secure.meetupstatic.com/photos/event/a/7/b/5/600_476322933.jpeg" width="400"/><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://secure.meetupstatic.com/photos/event/a/7/b/6/600_476322934.jpeg" width="400"/>
+
 ## 21차 모임 : [DevOps Series] [AWS CodeStar를 이용한 serverless Application 구축](https://www.meetup.com/ko-KR/awskrug/events/255357068/)
   - **일시** : 2018년 10월 16일
   - **발표자 : 발표주제**
