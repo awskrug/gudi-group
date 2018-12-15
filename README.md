@@ -10,36 +10,60 @@
 
 
 # Meetups
-## 22차 모임 : [DevOps Series] [Ansible & Packer 를 활용한 AMI 기반 배포 HandsOn](https://www.meetup.com/ko-KR/awskrug/events/256197701/)
+## 23차 모임 : [DevOps Series] [Ansible & Packer 를 활용한 AMI 기반 배포 HandsOn (2/2)](https://www.meetup.com/ko-KR/awskrug/events/256928968/)
+  - **일시** : 2018년 12월 11일 (2018년 마지막 모임)
+  - **발표자 : 발표주제**
+    -  심호진님 : [Ansible & Packer 를 활용한 AMI 기반 배포 HandsOn (2/2)](https://github.com/stevenshim/ansible-packer-hands-on)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/8/f/e/5/600_477036837.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/8/f/e/a/600_477036842.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/8/f/e/b/600_477036843.jpeg" width="400"/>
+
+## 22차 모임 : [DevOps Series] [Ansible & Packer 를 활용한 AMI 기반 배포 HandsOn (1/2)](https://www.meetup.com/ko-KR/awskrug/events/256197701/)
   - **일시** : 2018년 11월 13일
   - **발표자 : 발표주제**
-    -  심호진님 : [Ansible & Packer 를 활용한 AMI 기반 배포 HandsOn](https://github.com/stevenshim/ansible-packer-hands-on)
+    -  심호진님 : [Ansible & Packer 를 활용한 AMI 기반 배포 HandsOn (1/2)](https://github.com/stevenshim/ansible-packer-hands-on)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://secure.meetupstatic.com/photos/event/a/7/b/5/600_476322933.jpeg" width="400"/><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://secure.meetupstatic.com/photos/event/a/7/b/6/600_476322934.jpeg" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/a/7/b/5/600_476322933.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/a/7/b/6/600_476322934.jpeg" width="400"/>
 
 ## 21차 모임 : [DevOps Series] [AWS CodeStar를 이용한 serverless Application 구축](https://www.meetup.com/ko-KR/awskrug/events/255357068/)
   - **일시** : 2018년 10월 16일
   - **발표자 : 발표주제**
     -  박태성님 : [AWS CodeStar를 이용한 serverless Application 구축](https://www.slideshare.net/TaeSeongPark2/awskrug-aws-codestar-serverless-application)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-21_1.jpg" width="400"/><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-21_2.jpg" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/guro-21_1.jpg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/guro-21_2.jpg" width="400"/>
 
 ## 20차 모임 : [DevOps Series] [Ansible을 활용한 Configuration Management Tool & 활용 사례](https://www.meetup.com/ko-KR/awskrug/events/254435002/)
   - **일시** : 2018년 9월 18일
   - **발표자 : 발표주제**
     -  심호진님 : [Ansible을 활용한 Configuration Management Tool & 활용 사례](https://www.slideshare.net/StevenShim/ansible-configuration-management-tool-115582091)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-20_1.jpg" width="400"/><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-20_2.jpg" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/guro-20_1.jpg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/guro-20_2.jpg" width="400"/>
 
 ## 19차 모임 : [container networking with ECS](https://www.meetup.com/ko-KR/awskrug/events/252919658/)
   - **일시** : 2018년 7월 24일
   - **발표자 : 발표주제**
     - 류한진님 : container networking with ECS
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-19_1.jpeg" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/guro-19_1.jpeg" width="400"/>
 
 ## 18차 모임 : [CloudFront+S3를 활용한 CDN 구성법](https://www.meetup.com/ko-KR/awskrug/events/251465327/)
   - **일시** : 2018년 6월 18일
@@ -62,8 +86,11 @@
     - 이재구님 : AWS와 만나기 까지
     - 이영경님 : [ASG 끝판왕 깨기](http://sori-nori.gitlab.io/youngkyung-done/ASG-1/)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-15_1.jpeg" width="400"/>
-      <img src="images/guro-15_2.jpeg" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/guro-15_1.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/guro-15_2.jpeg" width="400"/>
 
 ## 14차 모임 : [나의 SM이용기 & 일본 고베 Alexa Days 참관/여행기](https://www.meetup.com/ko-KR/awskrug/events/247268216/)
   - **일시** : 2018년 2월 20일
@@ -82,8 +109,10 @@
   - **발표자 : 발표주제**
     - 류한진 님 : [Cloudwatch with Slack(slack으로 일하기)](https://docs.google.com/presentation/d/e/2PACX-1vRqZexRpVH6W-filJJqUyaGRWZfBk94niotptPYHmqkgmnZQk0_dI1B3w7id_MvhYNcpeu134O8uirt/pub?start=false&loop=false&delayms=60000&slide=id.p)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/guro-12_1.jpeg" width="400"/>
-    <img src="images/guro-12_2.jpeg" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/guro-12_1.jpeg" width="400"/><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/guro-12_2.jpeg" width="400"/>
 
 ## 11차 모임 : [5년차 스타트업의 "자율근무와 AWS" 적용사례](https://www.meetup.com/ko-KR/awskrug/events/244305778/)
   - **일시** : 2017년 10월 24일
