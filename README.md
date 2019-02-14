@@ -34,7 +34,7 @@
 
 ## 2018년
 <details>
-  <summary>23th meetup - <b>[DevOps Series] Ansible & Packer 를 활용한 AMI 기반 배포 HandsOn (2/2)</summary>
+  <summary>23th meetup - <b>[DevOps Series] Ansible & Packer 를 활용한 AMI 기반 배포 HandsOn (2/2)</b></summary>
 
   ### `23th meetup`
   - **주최**
