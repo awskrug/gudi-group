@@ -199,7 +199,7 @@
       - [`류한진`](https://www.meetup.com/ko-KR/awskrug/members/217184134/)님 - [Cloudwatch with Slack(slack으로 일하기)](https://docs.google.com/presentation/d/e/2PACX-1vRqZexRpVH6W-filJJqUyaGRWZfBk94niotptPYHmqkgmnZQk0_dI1B3w7id_MvhYNcpeu134O8uirt/pub?start=false&loop=false&delayms=60000&slide=id.p)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-12_1.jpeg" width="400"/><br>
+  <img src="images/guro-12_1.jpeg" width="400"/>
   <img src="images/guro-12_2.jpeg" width="400"/>
 </details>
 
