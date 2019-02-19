@@ -171,7 +171,7 @@
     - [2018년 2월 20일 / 서울특별시 금천구 가산디지털1로 168 우림라이온스밸리 A동 612호 창의지대 회의실](https://www.meetup.com/ko-KR/awskrug/events/247268216/)
   - **주제**
     - 발표
-      - [`장강홍`](https://www.meetup.com/ko-KR/awskrug/members/224352392/)님 - 나의 SM이용기
+      - [`장강홍`](https://www.meetup.com/ko-KR/awskrug/members/224352392/)님 - [나의 SM이용기](https://drive.google.com/drive/folders/1eCy7P1SVm3B-w9gbctF2tz-TgpVt_pNg)
       - [`김현민`](https://www.meetup.com/ko-KR/awskrug/members/194461433/)님 - 일본 고베 Alexa Days 참관/여행기 (부제 ~AWS와 함께한 세미나~)
 </details>
 
