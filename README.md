@@ -17,6 +17,27 @@
 # Meetups
 ## 2019년
 <details>
+  <summary>25th meetup - <b>JAWS-DAYS 2019 후기</b> & <b>AWS Lambda Layer 로컬테스트부터 배포까지</b></summary>
+
+  ### `25th meetup`
+  - **주최**
+    - [2019년 3월 12일 / 서울 구로구 디지털로26길 72 서울창업지원센터(서울IoT센터) 4층 중회의실](https://www.meetup.com/ko-KR/awskrug/events/259494614/)
+  - **주제**
+    - 발표
+      - [`김현민`](https://www.meetup.com/ko-KR/awskrug/members/194461433/)님 - [JAWS-DAYS 2019 후기]()
+      - [`박태성`](https://www.meetup.com/ko-KR/awskrug/members/194461433/)님 - [AWS Lambda Layer 로컬테스트부터 배포까지](https://www.slideshare.net/TaeSeongPark2/awskrug-aws-lambda-layer-136031255)
+    - 자발적인 뒷풀이타임 🍣🍻
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/4/2/a/8/600_479417064.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/4/2/a/5/600_479417061.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/53525886_10213822219805944_7808256458297966592_n.jpg?_nc_cat=110&_nc_ht=scontent-icn1-1.xx&oh=e76172ffa8a0b2c887173d38ae08902d&oe=5D268993" width="400"/>
+  <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/54279493_2124094000992467_1737924822307962880_n.jpg?_nc_cat=108&_nc_ht=scontent-icn1-1.xx&oh=b610ab4d10e453a38432910fcb32700c&oe=5D11BD81" width="400"/>
+</details>
+
+<details>
   <summary>24th meetup - <b>Amazon.com의 개인화 추천 및 예측 서비스를 우리도 써 봅시다</b> & <b>2019년 계획 수립 회의</b></summary>
 
   ### `24th meetup`
