@@ -17,6 +17,29 @@
 # Meetups
 ## 2019년
 <details>
+  <summary>26th meetup - <b>AWS IoT, AWS Greengrass 등을 활용한 시계열분석</b>- 미세먼지로부터 우리의 건강을 지키자</summary>
+
+  ### `26th meetup`
+  - **주최**
+    - [2019년 5월 12일 / 서울특별시 동작구 여의대방로 112 농심신대방사옥(도연관) 11층 대회의실](https://www.meetup.com/ko-KR/awskrug/events/260907200/)
+  - **주제**
+    - 발표
+      - [`이해성`](https://www.meetup.com/ko-KR/awskrug/members/149507882/)님 - [AWS IoT, AWS Greengrass 등을 활용한 시계열분석 - 미세먼지로부터 우리의 건강을 지키자](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver?from_m_app=ios)
+        - 발표 참고자료: [`Jupyter viewer(GitHub)`](https://nbviewer.jupyter.org/github/leehaesung/seoul_weather_twitter_Analysis/blob/master/01_files/SeoulWeather_pm2p5c_csv.ipynb)
+    - 자발적인 뒷풀이타임 🍗🍻
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/f/3/8/600_481323896.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/f/3/b/600_481323899.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/f/5/c/600_481323932.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/f/5/d/600_481323933.jpeg" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/f/5/e/600_481323934.jpeg" width="400"/>
+</details>
+
+<details>
   <summary>25th meetup - <b>JAWS-DAYS 2019 후기</b> & <b>AWS Lambda Layer 로컬테스트부터 배포까지</b></summary>
 
   ### `25th meetup`
