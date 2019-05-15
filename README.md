@@ -21,7 +21,7 @@
 
   ### `26th meetup`
   - **주최**
-    - [2019년 5월 12일 / 서울특별시 동작구 여의대방로 112 농심신대방사옥(도연관) 11층 대회의실](https://www.meetup.com/ko-KR/awskrug/events/260907200/)
+    - [2019년 5월 14일 / 서울특별시 동작구 여의대방로 112 농심신대방사옥(도연관) 11층 대회의실](https://www.meetup.com/ko-KR/awskrug/events/260907200/)
   - **주제**
     - 발표
       - [`이해성`](https://www.meetup.com/ko-KR/awskrug/members/149507882/)님 - [AWS IoT, AWS Greengrass 등을 활용한 시계열분석 - 미세먼지로부터 우리의 건강을 지키자](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver?from_m_app=ios)
