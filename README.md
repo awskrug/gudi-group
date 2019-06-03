@@ -357,7 +357,7 @@
 </details>
 
 <details>
-  <summary>3th meetup - <b>자율 주제</b></summary>
+  <summary>3th meetup - <b>Elastic Load Balancing : swimming lightly and my practice & 덕후의 AWS를 이용한 팬사이트 구축 실패 경험기</b></summary>
 
   ### `3th meetup`
   - **주최**
