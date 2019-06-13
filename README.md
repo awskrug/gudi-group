@@ -17,6 +17,25 @@
 # Meetups
 ## 2019년
 <details>
+  <summary>27th meetup - <b>AWS load balancers deep dive</b> & <b>Terraform으로 AWS Lambda 활용 주기적으로 EC2를 AMI로 백업 하기</b></summary>
+
+  ### `27th meetup`
+  - **주최**
+    - [2019년 6월 11일 / 서울특별시 동작구 여의대방로 112 농심신대방사옥(도연관) 11층 대회의실](https://www.meetup.com/ko-KR/awskrug/events/261639589/)
+  - **주제**
+    - 발표
+      - [`하수용`](https://www.meetup.com/ko-KR/awskrug/members/232491796/)님 - [AWS load balancers deep dive](https://www.slideshare.net/hasuyoung1/aws-load-balancers-deep-diveawskrug)
+      - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [Terraform으로 AWS Lambda 활용 주기적으로 EC2를 AMI로 백업 하기](https://github.com/stevenshim/lambda_ami_backup)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/2/f/1/600_482160753.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/f/a/600_482160762.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/3/c/600_482160828.jpeg" width="400"/>
+</details>
+
+<details>
   <summary>26th meetup - <b>AWS IoT, AWS Greengrass 등을 활용한 시계열분석</b>- 미세먼지로부터 우리의 건강을 지키자</summary>
 
   ### `26th meetup`
