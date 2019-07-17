@@ -17,6 +17,33 @@
 # Meetups
 ## 2019년
 <details>
+  <summary>28th meetup - <b>serverless framework 으로 남몰래 서비스 만들고 지워보기</b></summary>
+
+  ### `28th meetup`
+  - **주최**
+    - [2019년 7월 16일 / 서울특별시 구로구 디지털로26길 123 지플러스타워 14층 플레이오토 세미나실](https://www.meetup.com/ko-KR/awskrug/events/262726764/)
+  - **주제**
+    - 발표
+      - [`박태성`](https://www.meetup.com/ko-KR/awskrug/members/184515293/)님 - [serverless framework으로 남몰래 서비스 만들고 지워보기](https://www.slideshare.net/TaeSeongPark2/awskrug-serverless-framework)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/7/6/e/9/600_483210441.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/7/f/d/c/600_483152732.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/f/2/0/600_483187968.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/8/f/f/600_483194591.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/9/0/6/600_483194598.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/9/0/1/600_483194593.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/9/0/3/600_483194595.jpeg" width="400"/>
+</details>
+
+
+<details>
   <summary>27th meetup - <b>AWS load balancers deep dive</b> & <b>Terraform으로 AWS Lambda 활용 주기적으로 EC2를 AMI로 백업 하기</b></summary>
 
   ### `27th meetup`
