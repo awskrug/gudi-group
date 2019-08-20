@@ -11,11 +11,21 @@
 
 # 모임 일시
   - 매월 `셋째주 화요일`에 **구로디지털단지** 공간대여가 가능한 곳 어디서든 진행합니다
-  - **구로디지털단지** 근처 평균 10~20인실 수용 가능한 공간 지원 해 주실 분 두팔벌려 환영합니다 👍
+  - ~~**구로디지털단지** 근처 평균 10~20인실 수용 가능한 공간 지원 해 주실 분 두팔벌려 환영합니다 👍~~
 
 
 # Meetups
 ## 2019년
+<details>
+  <summary>29th meetup - <b>serverless framework 으로 남몰래 서비스 만들고 지워보기: HandsOn</b></summary>
+
+  ### `29th meetup`
+  - **주최**
+    - [2019년 8월 20일 / 서울특별시 구로구 디지털로26길 123 지플러스타워 14층 플레이오토 세미나실](https://www.meetup.com/ko-KR/awskrug/events/263641033/)
+  - **주제**
+    - 발표
+      - [`박태성`](https://www.meetup.com/ko-KR/awskrug/members/184515293/)님 - [serverless framework으로 남몰래 서비스 만들고 지워보기: HandsOn](https://github.com/geoseong/serverless-study/blob/master/docs/handson.md)
+</details>
 <details>
   <summary>28th meetup - <b>serverless framework 으로 남몰래 서비스 만들고 지워보기</b></summary>
 
