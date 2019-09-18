@@ -17,6 +17,23 @@
 # Meetups
 ## 2019년
 <details>
+  <summary>30th meetup - <b>AWS EKS 톺아보기 Part 1 - EKS 구축하기 (Hands-on 포함)</b></summary>
+
+  ### `30th meetup`
+  - **주최**
+    - [2019년 9월 17일 / 서울특별시 구로구 디지털로26길 123 지플러스타워 14층 플레이오토 세미나실](https://www.meetup.com/ko-KR/awskrug/events/264512802/)
+  - **주제**
+    - 발표
+      - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [AWS EKS 톺아보기 Part 1 - EKS 구축하기 (Hands-on 포함)](https://github.com/stevenshim/eks-hands-on/tree/master/description/part1)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/d/e/6/f/600_484976943.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/d/e/7/0/600_484976944.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/d/e/7/2/600_484976946.jpeg" width="400"/>
+</details>
+<details>
   <summary>29th meetup - <b>serverless framework 으로 남몰래 서비스 만들고 지워보기: HandsOn</b></summary>
 
   ### `29th meetup`
