@@ -17,6 +17,30 @@
 # Meetups
 ## 2019년
 <details>
+  <summary>31th meetup - <b>AWS EKS 톺아보기 Part 2 - EKS 잘써보기 (Hands-on 포함)</b></summary>
+
+  ### `31th meetup`
+  - **주최**
+    - [2019년 10월 18일 / 서울특별시 구로구 디지털로26길 123 지플러스타워 14층 플레이오토 세미나실](https://www.meetup.com/ko-KR/awskrug/events/265497395/)
+  - **주제**
+    - 발표
+      - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [AWS EKS 톺아보기 Part 2 - EKS 잘써보기 (Hands-on 포함)](https://github.com/stevenshim/eks-hands-on/tree/master/description/part2)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/9/3/600_485865715.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/9/1/600_485865713.jpeg" width="200"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/e/600_485865710.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/c/600_485865708.jpeg" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/9/600_485865705.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/f/6/0/600_485848512.jpeg" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/8/600_485865704.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/9/0/600_485865712.jpeg" width="200"/>
+</details>
+<details>
   <summary>30th meetup - <b>AWS EKS 톺아보기 Part 1 - EKS 구축하기 (Hands-on 포함)</b></summary>
 
   ### `30th meetup`
@@ -31,7 +55,7 @@
   <img src="https://secure.meetupstatic.com/photos/event/d/e/7/0/600_484976944.jpeg" width="400"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/d/e/7/2/600_484976946.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/d/e/7/2/600_484976946.jpeg" width="200"/>
 </details>
 <details>
   <summary>29th meetup - <b>serverless framework 으로 남몰래 서비스 만들고 지워보기: HandsOn</b></summary>
@@ -54,7 +78,7 @@
       - [`박태성`](https://www.meetup.com/ko-KR/awskrug/members/184515293/)님 - [serverless framework으로 남몰래 서비스 만들고 지워보기](https://www.slideshare.net/TaeSeongPark2/awskrug-serverless-framework)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/7/6/e/9/600_483210441.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/7/6/e/9/600_483210441.jpeg" width="300"/>
   <img src="https://secure.meetupstatic.com/photos/event/7/f/d/c/600_483152732.jpeg" width="400"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -66,7 +90,7 @@
   <img src="https://secure.meetupstatic.com/photos/event/3/9/0/1/600_483194593.jpeg" width="400"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/3/9/0/3/600_483194595.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/9/0/3/600_483194595.jpeg" width="#00"/>
 </details>
 
 
