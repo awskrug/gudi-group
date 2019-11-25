@@ -17,6 +17,26 @@
 # Meetups
 ## 2019년
 <details>
+  <summary>32th meetup - <b>인턴도 할 수 있는 Prometheus&사용기</b></summary>
+
+  ### `32th meetup`
+  - **주최**
+    - [2019년 11월 12일 / 서울특별시 구로구 디지털로26길 123 지플러스타워 14층 플레이오토 세미나실](https://www.meetup.com/ko-KR/awskrug/events/266039576/)
+  - **주제**
+    - 발표
+      - [`한상효`](https://www.meetup.com/ko-KR/awskrug/members/267185743/profile/)님 - [인턴도 할 수 있는 Prometheus&사용기](https://www.slideshare.net/SangHyoHan1/awskrug-prometheus-sanghyo-han)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/2/a/0/600_486600672.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/a/9/600_486600681.jpeg" width="200"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/2/a/a/600_486600682.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/a/b/600_486600683.jpeg" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/2/a/c/600_486600684.jpeg" width="400"/>
+</details>
+<details>
   <summary>31th meetup - <b>AWS EKS 톺아보기 Part 2 - EKS 잘써보기 (Hands-on 포함)</b></summary>
 
   ### `31th meetup`
