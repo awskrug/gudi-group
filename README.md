@@ -17,16 +17,47 @@
   - AWSKRUG모임에서 발표를 하시는 분들은 AWS 크레딧을 드리니 많이 발표지원 해주세요~ (크레딧 금액은 사정상 달라질 수 있음)
 
 # Meetups
+## 2020년
+<details>
+  <summary>33th meetup - <b>AWS EKS 톺아보기 Part 3</b> & <b>AWS Amplify로 클라우드 기반 모바일 앱 개발하기</b></summary>
+
+  ### `33th meetup`
+  - **주최**
+    - [2019년 11월 12일 / 서울특별시 구로구 디지털로26길 123 지플러스타워 14층 플레이오토 세미나실](https://www.meetup.com/ko-KR/awskrug/events/267715088/)
+  - **주제**
+    - 발표
+      - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [AWS EKS 톺아보기 Part 3](https://github.com/stevenshim/eks-hands-on/blob/master/description/part3)
+      - [`박태성`](https://www.meetup.com/ko-KR/awskrug/members/184515293/profile)님 - [AWS Amplify로 클라우드 기반 모바일 앱 개발하기](https://github.com/geoseong/study-amplify-with-react-native)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/0/a/600_488388138.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/8/600_488388152.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/b/600_488388155.jpeg" width="800"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/c/600_488388156.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/d/600_488388157.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/e/600_488388158.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/f/600_488388159.jpeg" width="800"/>
+  <br>
+</details>
+
 ## 2019년
 <details>
-  <summary>32th meetup - <b>인턴도 할 수 있는 Prometheus&사용기</b></summary>
+  <summary>32th meetup - <b>인턴도 할 수 있는 Prometheus & 사용기</b></summary>
 
   ### `32th meetup`
   - **주최**
     - [2019년 11월 12일 / 서울특별시 구로구 디지털로26길 123 지플러스타워 14층 플레이오토 세미나실](https://www.meetup.com/ko-KR/awskrug/events/266039576/)
   - **주제**
     - 발표
-      - [`한상효`](https://www.meetup.com/ko-KR/awskrug/members/267185743/profile/)님 - [인턴도 할 수 있는 Prometheus&사용기](https://www.slideshare.net/SangHyoHan1/awskrug-prometheus-sanghyo-han)
+      - [`한상효`](https://www.meetup.com/ko-KR/awskrug/members/267185743/profile/)님 - [인턴도 할 수 있는 Prometheus & 사용기](https://www.slideshare.net/SangHyoHan1/awskrug-prometheus-sanghyo-han)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/2/a/0/600_486600672.jpeg" width="400"/>
