@@ -19,11 +19,32 @@
 # Meetups
 ## 2020년
 <details>
+  <summary>34th meetup - <b>Amazon Cognito로 시도 해 보는 다양한 방법의 소셜 로그인</b></summary>
+
+  ### `34th meetup`
+  - **주최**
+    - [2020년 02월 18일 / 서울특별시 구로구 디지털로26길 123 지플러스타워 14층 플레이오토 세미나실](https://www.meetup.com/ko-KR/awskrug/events/268558188/)
+  - **주제**
+    - 발표
+      - [`박태성`](https://www.meetup.com/ko-KR/awskrug/members/184515293/profile)님 - [Amazon Cognito로 시도 해 보는 다양한 방법의 소셜 로그인](https://medium.com/@parkopp/amazon-cognito%EB%A1%9C-%EC%8B%9C%EB%8F%84-%ED%95%B4-%EB%B3%B4%EB%8A%94-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%B0%A9%EB%B2%95%EC%9D%98-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-f81fa00b8c2e)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/7/e/5/c/600_489152348.jpeg" width="200"/>
+  <img src="https://secure.meetupstatic.com/photos/event/7/e/5/a/600_489152346.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/7/e/5/6/600_489152342.jpeg" width="800"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/7/e/5/2/600_489152338.jpeg" width="600"/>
+  <br>
+</details>
+<details>
   <summary>33th meetup - <b>AWS EKS 톺아보기 Part 3</b> & <b>AWS Amplify로 클라우드 기반 모바일 앱 개발하기</b></summary>
 
   ### `33th meetup`
   - **주최**
-    - [2019년 11월 12일 / 서울특별시 구로구 디지털로26길 123 지플러스타워 14층 플레이오토 세미나실](https://www.meetup.com/ko-KR/awskrug/events/267715088/)
+    - [2020년 01월 22일 / 서울특별시 구로구 디지털로26길 123 지플러스타워 14층 플레이오토 세미나실](https://www.meetup.com/ko-KR/awskrug/events/267715088/)
   - **주제**
     - 발표
       - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [AWS EKS 톺아보기 Part 3](https://github.com/stevenshim/eks-hands-on/blob/master/description/part3)
