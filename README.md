@@ -15,6 +15,7 @@
 
 # 발표자 보상
   - AWSKRUG모임에서 발표를 하시는 분들은 AWS 크레딧을 드리니 많이 발표지원 해주세요~ (크레딧 금액은 사정상 달라질 수 있음)
+  - [발표에 대한 부담감에 대해서](https://github.com/awskrug/gudi-group/issues/1)
 
 # Meetups
 ## 2020년
