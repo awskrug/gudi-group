@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-file -->
 # AWSKRUG #gudi(구로디지털) 모임
 
 <img src="images/awskrug_gudi_icon.png" width="400"/>
@@ -19,6 +20,17 @@
 
 # Meetups
 ## 2020년
+<details>
+  <summary>35th meetup - <b>토론회: 2020년 주목해 볼 AWS 주요 고객 사례 모음</b></summary>
+
+  ### `35th meetup`
+  - **주최**
+    - [2020년 03월 17일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/269376958/)
+  - **주제**
+    - [토론회: "2020년 주목해 볼 AWS 주요 고객 사례 모음"](https://aws.amazon.com/ko/blogs/korea/2019-customer-cases/)
+      - AWS의 블로그 내용을 훑어보고 참가자들의 관심사에 따라 내용 중 하나를 즉흥적으로 정하여 토론
+
+</details>
 <details>
   <summary>34th meetup - <b>Amazon Cognito로 시도 해 보는 다양한 방법의 소셜 로그인</b></summary>
 
