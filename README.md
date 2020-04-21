@@ -21,6 +21,38 @@
 # Meetups
 ## 2020년
 <details>
+  <summary>36th meetup - <b>토론회: 2020년 주목해 볼 AWS 주요 고객 사례 모음</b></summary>
+
+  ### `36th meetup`
+  - **주최**
+    - [2020년 04월 21일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/269948676/)
+  - **주제**
+    - [집단지성: "모니터링, IAM, CI/CD기법에 대하여"](https://docs.google.com/presentation/d/1lhmNRqBNq0h2nw6ktvahASahy1rpqGm5RyjTpQ7V-kY/edit#slide=id.p)
+      - 모니터링 스터디내용 공유와 사용기법에 대한 내용 공유
+        - Mackerel (Slack@twkiiim)
+        - O'Reilly SRE 책의 주요 내용 공유 (Slack@wonderwall)
+        - 참여자 토론
+          - 모니터링 서비스들 공유
+      - IAM 사용기법
+        - IAM Best Practices & 교차계정 접근법 공유 (Slack@PaPabongo)
+        - 참여자 토론
+          - Trusted Advisor, IAM의 Access Analyzer에 대한 토론
+      - CI/CD 구축기법
+        - 사내 BitBucket Pipeline 세팅 및 구축법 공유 (Slack@geoseong)
+        - BitBucket Pipeline 배포법 공유 (Slack@yunzema)
+          - Vue Frontend AWS S3 배포
+          - AWS ECR Docker Image Push
+        - 참여자 토론
+          - Git 협업방법
+      - 자유토론
+        - Serverless & CDK
+          - [Nordic Serverless - AWS CDK and Amazon EventBridge](https://www.youtube.com/watch?v=31l3T-e0Voc)
+          - [Full Stack Development in the Era of Serverless Computing: Nader Dabit](https://egghead.io/lessons/egghead-egghead-talks-full-stack-development-in-the-era-of-serverless-computing)
+        - AWS 스터디 자료
+          - [classmethod: 일본어버전이지만 한국어 번역이 용이함](https://dev.classmethod.jp/)
+
+</details>
+<details>
   <summary>35th meetup - <b>토론회: 2020년 주목해 볼 AWS 주요 고객 사례 모음</b></summary>
 
   ### `35th meetup`
