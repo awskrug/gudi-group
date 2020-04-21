@@ -21,7 +21,7 @@
 # Meetups
 ## 2020년
 <details>
-  <summary>36th meetup - <b>토론회: 2020년 주목해 볼 AWS 주요 고객 사례 모음</b></summary>
+  <summary>36th meetup - <b>집단지성: "모니터링, IAM, CI/CD기법에 대하여"</b></summary>
 
   ### `36th meetup`
   - **주최**
