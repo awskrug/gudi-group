@@ -29,7 +29,6 @@
   - **주제**
     - 발표
       - [AWS 기반 서버리스 아키텍쳐 톺아보기](https://dev.classmethod.jp/articles/awskrug-gudi-37-serverless/)
-      <script async class="speakerdeck-embed" data-id="4b08905d93de4ef09faa05e90f2d0396" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
     - 자유토론
       - [Amplify API with Auth directive 스터디 문서](https://www.notion.so/geoseong/Auth-d5b57c8a5c8544f0a925b404fa302549)
 
