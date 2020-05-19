@@ -21,6 +21,20 @@
 # Meetups
 ## 2020년
 <details>
+  <summary>37th meetup - <b>AWS 기반 서버리스 아키텍쳐 톺아보기"</b></summary>
+
+  ### `37th meetup`
+  - **주최**
+    - [2020년 05월 19일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/270600402/)
+  - **주제**
+    - 발표
+      - [발표: "AWS 기반 서버리스 아키텍쳐 톺아보기"](https://dev.classmethod.jp/articles/awskrug-gudi-37-serverless/)
+      - 자유토론
+        - Amplify Framework
+          - [Amplify API with Auth directive 스터디 문서](https://www.notion.so/geoseong/Auth-d5b57c8a5c8544f0a925b404fa302549)
+
+</details>
+<details>
   <summary>36th meetup - <b>집단지성: "모니터링, IAM, CI/CD기법에 대하여"</b></summary>
 
   ### `36th meetup`
