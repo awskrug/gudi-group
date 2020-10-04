@@ -21,6 +21,27 @@
 # Meetups
 ## 2020년
 <details>
+  <summary>38th meetup - <b>구디모임 방향성 재수립</b></summary>
+
+  ### `38th meetup`
+  - **주최**
+    - [2020년 09월 10일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/272930494/)
+  - **주제**
+    - 발표
+      - [역대 구디모임 회고, 모임 방향에 대한 공지](https://docs.google.com/presentation/d/1TX25ZhEFwI_xvc8EWimzXeOlrRUN4vlO0NKTPQ8oSyo/edit?usp=sharing)
+    - 자유토론
+      - 네트워킹 및 다음 주제 논의: 라이브코딩, 패널토크, 삽질후기 등
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://secure.meetupstatic.com/photos/event/8/1/f/b/600_492753275.jpeg" width="400"/>
+    <img src="https://secure.meetupstatic.com/photos/event/8/1/f/d/600_492753277.jpeg" width="400"/>
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://secure.meetupstatic.com/photos/event/8/2/3/e/600_492753342.jpeg" width="400"/>
+    <img src="https://secure.meetupstatic.com/photos/event/8/2/2/9/600_492753321.jpeg" width="400"/>
+    <br>
+</details>
+<details>
   <summary>37th meetup - <b>AWS 기반 서버리스 아키텍쳐 톺아보기</b></summary>
 
   ### `37th meetup`
@@ -28,7 +49,7 @@
     - [2020년 05월 19일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/270600402/)
   - **주제**
     - 발표
-      - [AWS 기반 서버리스 아키텍쳐 톺아보기](https://dev.classmethod.jp/articles/awskrug-gudi-37-serverless/)
+      - [`김태우`](https://www.meetup.com/ko-KR/awskrug/members/281643910/profile/)님 - [AWS 기반 서버리스 아키텍쳐 톺아보기](https://dev.classmethod.jp/articles/awskrug-gudi-37-serverless/)
     - 자유토론
       - [Amplify API with Auth directive 스터디 문서](https://www.notion.so/geoseong/Auth-d5b57c8a5c8544f0a925b404fa302549)
 
