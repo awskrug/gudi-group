@@ -21,6 +21,28 @@
 # Meetups
 ## 2020년
 <details>
+  <summary>40th meetup - <b>Amazon VPC Deep Dive: ENI 를 알면 VPC 가 보인다</b></summary>
+
+  ### `40th meetup`
+  - **주최**
+    - [2020년 11월 17일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/274484412/)
+  - **주제**
+    - 발표
+      - [`김태우`](https://www.meetup.com/ko-KR/awskrug/members/281643910/profile/)님 - [Amazon VPC Deep Dive: ENI 를 알면 VPC 가 보인다](https://speakerdeck.com/twkiiim/amazon-vpc-deep-dive-eni-reul-almyeon-vpc-ga-boinda)
+
+</details>
+<details>
+  <summary>39th meetup - <b>개발자들이 알아두면 좋을 기본적인 네트워크 지식</b></summary>
+
+  ### `39th meetup`
+  - **주최**
+    - [2020년 10월 20일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/273699098/)
+  - **주제**
+    - 발표
+      - `서대호`님 - [개발자들이 알아두면 좋을 기본적인 네트워크 지식](https://docs.google.com/presentation/d/1oof9IUxEH_UahZbrbiZ5uUvHAotwS4-9_kVGvri1_Pw/edit?usp=sharing)
+
+</details>
+<details>
   <summary>38th meetup - <b>구디모임 방향성 재수립</b></summary>
 
   ### `38th meetup`
