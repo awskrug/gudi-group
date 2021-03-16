@@ -21,6 +21,22 @@
 # Meetups
 ## 2021년
 <details>
+  <summary>42th meetup - <b>언택트 시대에 말 수가 현격히 줄어 입이 근질근질한 분들을 위한 잡담</b></summary>
+
+  ### `42th meetup`
+  - **주최**
+    - [2021년 03월 16일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/276848045/)
+  - **주제**
+    - 업무경험을 윤택하게 해 주는 도구나 가구 추천
+    - 재택근무를 하면서 나태해 지지 않게 일 하는 방법
+    - 스터디의 동기부여를 얻는 방법
+    - 구인 구직
+    - 개발고민 상담
+  - **모임 토론 자료**
+    - [줍할만한 키워드와 정보가 공유된 슬라이드](https://drive.google.com/file/d/1Jqs_dBam9Ru_rCz-gkOHHZRFk8SrcvPS/view?usp=sharing)
+
+</details>
+<details>
   <summary>41th meetup - <b>AWS 자격증, AWS Community Builders 소개 및 후기</b></summary>
 
   ### `41th meetup`
@@ -29,13 +45,13 @@
   - **주제**
     1. 주제발표-1
         - [`류한진`](https://www.meetup.com/ko-KR/awskrug/members/217184134/)님 - AWS 자격증 살펴보기
-    1. 라이트닝 토크-1
+    2. 라이트닝 토크-1
         - [`김태웅`](https://www.meetup.com/ko-KR/awskrug/members/249419691/)님 - AWS Solutions Acrhitect Associate 자격증 후기
-    1. 주제발표-2
+    3. 주제발표-2
         - [`박태성`](https://www.meetup.com/ko-KR/awskrug/members/184515293/)님 - [AWS Community Builders 소개 & AWS Associate Developer 자격증 후기](https://geoseong.github.io/docs/aws/certified-dev-associate)
-    2. 라이트닝 토크-2
+    4. 라이트닝 토크-2
         - [`류한진`](https://www.meetup.com/ko-KR/awskrug/members/217184134/)님 - AWS Advanced Networking specialty 자격증 후기
-    1. 라이트닝 토크-3
+    5. 라이트닝 토크-3
         - [`정도현`](https://www.meetup.com/ko-KR/awskrug/members/216996214/)님 - AWSKRUG #cert 채널 및 [자격증 취득 모임](https://www.meetup.com/ko-KR/awskrug/events/276358190/) 소개
 
 </details>
