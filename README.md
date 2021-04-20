@@ -21,7 +21,7 @@
 # Meetups
 ## 2021년
 <details>
-  <summary>43th meetup - <b>언택트 시대에 말 수가 현격히 줄어 입이 근질근질한 분들을 위한 잡담</b></summary>
+  <summary>43th meetup - <b>AWS 해킹 과금 대처 후기</b></summary>
 
   ### `43th meetup`
   - **주최**
