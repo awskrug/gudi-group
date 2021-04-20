@@ -21,6 +21,19 @@
 # Meetups
 ## 2021년
 <details>
+  <summary>43th meetup - <b>언택트 시대에 말 수가 현격히 줄어 입이 근질근질한 분들을 위한 잡담</b></summary>
+
+  ### `43th meetup`
+  - **주최**
+    - [2021년 04월 20일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/277355762/)
+  - **주제**
+    - 발표
+      - [`김종완`](https://www.meetup.com/ko-KR/awskrug/members/326658634/profile/)님 - [AWS 해킹 과금 대처 후기](https://www.slideshare.net/ssuserc5975d/aws-aws-246548280)
+  - **모임 토론 자료**
+    - [줍할만한 키워드와 정보가 공유된 슬라이드](https://docs.google.com/presentation/d/13arauU4c7kCPXEpJ6AIkHvqDnntaY7DDoZI8vdnE060/edit#slide=id.gd2e0c996b4_0_0)
+
+</details>
+<details>
   <summary>42th meetup - <b>언택트 시대에 말 수가 현격히 줄어 입이 근질근질한 분들을 위한 잡담</b></summary>
 
   ### `42th meetup`
