@@ -21,6 +21,17 @@
 # Meetups
 ## 2021년
 <details>
+  <summary>44th meetup - <b>하둡 & 에코 시스템 훑어보기</b></summary>
+
+  ### `44th meetup`
+  - **주최**
+    - [2021년 05월 18일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/277788173/)
+  - **주제**
+    - 발표
+      - [`김영익`](https://www.meetup.com/ko-KR/awskrug/members/246148128/profile/)님 - [하둡 & 에코 시스템 훑어보기](https://www.slideshare.net/youngick/hadoop-and-echosystem-2021)
+
+</details>
+<details>
   <summary>43th meetup - <b>AWS 해킹 과금 대처 후기</b></summary>
 
   ### `43th meetup`
