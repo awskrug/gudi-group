@@ -21,6 +21,17 @@
 # Meetups
 ## 2021년
 <details>
+  <summary>45th meetup - <b>(왕초보들을 위한) 알아두면 쓸데없지만 (혹시나) 신비할지도 모르는 잡학사전 : 머신러닝을 이용한 추천 시스템 개발 경험담</b></summary>
+
+  ### `45th meetup`
+  - **주최**
+    - [2021년 08월 17일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/279588385/)
+  - **주제**
+    - 발표
+      - [`김영익`](https://www.meetup.com/ko-KR/awskrug/members/246148128/profile/)님 - [(왕초보들을 위한) 알아두면 쓸데없지만 (혹시나) 신비할지도 모르는 잡학사전 : 머신러닝을 이용한 추천 시스템 개발 경험담](https://www.slideshare.net/youngick/ss-249961635)
+
+</details>
+<details>
   <summary>44th meetup - <b>하둡 & 에코 시스템 훑어보기</b></summary>
 
   ### `44th meetup`
