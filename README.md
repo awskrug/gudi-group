@@ -21,6 +21,17 @@
 # Meetups
 ## 2021년
 <details>
+  <summary>46th meetup - <b>어쩌면 허접할 수 있는 나의 클라우드 사용기: AWS vs Azure</b></summary>
+
+  ### `46th meetup`
+  - **주최**
+    - [2021년 09월 14일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/280508401/)
+  - **주제**
+    - 발표
+      - [`김유신`](https://www.meetup.com/ko-KR/awskrug/members/294588200/profile/)님 - [어쩌면 허접할 수 있는 나의 클라우드 사용기: AWS vs Azure](https://www.slideshare.net/YoushinKim5/azure-aws-250195432)
+
+</details>
+<details>
   <summary>45th meetup - <b>(왕초보들을 위한) 알아두면 쓸데없지만 (혹시나) 신비할지도 모르는 잡학사전 : 머신러닝을 이용한 추천 시스템 개발 경험담</b></summary>
 
   ### `45th meetup`
