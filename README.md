@@ -21,6 +21,17 @@
 # Meetups
 ## 2021년
 <details>
+  <summary>47th meetup - <b>k8s 가볍게 시작해보기</b></summary>
+
+  ### `47th meetup`
+  - **주최**
+    - [2021년 10월 19일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/281218896/)
+  - **주제**
+    - 발표
+      - [`김주영`](https://www.meetup.com/ko-KR/awskrug/members/313519453/profile/)님 - [k8s 가볍게 시작해보기](./resources/2021-EKS-IMD-K8S-Overview.pdf)
+
+</details>
+<details>
   <summary>46th meetup - <b>어쩌면 허접할 수 있는 나의 클라우드 사용기: AWS vs Azure</b></summary>
 
   ### `46th meetup`
