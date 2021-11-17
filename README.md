@@ -21,6 +21,21 @@
 # Meetups
 ## 2021년
 <details>
+  <summary>48th meetup - <b>ELK Stack - Log 처리 속도 개선기</b></summary>
+
+  ### `48th meetup`
+  - **주최**
+    - [2021년 11월 16일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/282011998/)
+  - **주제**
+    - 발표
+      - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [ELK Stack - Log 처리 속도 개선기](https://www.slideshare.net/StevenShim/how-to-improve-elk-log-pipeline-performance)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/e/1/6/e/600_500277710.jpeg" width="400"/>
+  <br>
+
+</details>
+<details>
   <summary>47th meetup - <b>k8s 가볍게 시작해보기</b></summary>
 
   ### `47th meetup`
