@@ -21,6 +21,17 @@
 # Meetups
 ## 2021년
 <details>
+  <summary>49th meetup - <b>리인벤트 2021 신규 서비스 & 업데이트 훑어보기</b></summary>
+
+  ### `49th meetup`
+  - **주최**
+    - [2021년 12월 21일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/282395657/)
+  - **주제**
+    - 발표
+      - [`정도현`](https://www.meetup.com/ko-KR/awskrug/members/216996214/)님 - [리인벤트 2021 신규 서비스 & 업데이트 훑어보기](https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/)
+
+</details>
+<details>
   <summary>48th meetup - <b>ELK Stack - Log 처리 속도 개선기</b></summary>
 
   ### `48th meetup`
