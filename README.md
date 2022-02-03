@@ -21,14 +21,14 @@
 # Meetups
 ## 2022년
 <details>
-  <summary>50th meetup - <b>SRE/DevOps 신입으로 1년간 근무하며 겪은 경험담</b></summary>
+  <summary>50th meetup - <b>SRE/DevOps 신입으로 1년간 근무하며 겪은 경험담</b></summary>
 
   ### `50th meetup`
   - **주최**
     - [2022년 1월 25일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/283148129/)
   - **주제**
     - 발표
-      - [`김주현`](https://www.meetup.com/ko-KR/awskrug/members/296136983/)님 - [SRE/DevOps 신입으로 1년간 근무하며 겪은 경험담](https://www.slideshare.net/JuhyunKim43/sredevops-1-251077918)
+      - [`김주현`](https://www.meetup.com/ko-KR/awskrug/members/296136983/)님 - [SRE/DevOps 신입으로 1년간 근무하며 겪은 경험담](https://www.slideshare.net/JuhyunKim43/sredevops-1-251077918)
 
 </details>
 
