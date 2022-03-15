@@ -21,6 +21,18 @@
 # Meetups
 ## 2022년
 <details>
+  <summary>51th meetup - <b>야! 너두 성능 테스트 할 수 있어</b></summary>
+
+  ### `51th meetup`
+  - **주최**
+    - [2022년 3월 15일 / Amazon Chime Online Meeting](https://www.meetup.com/ko-KR/awskrug/events/284421037/)
+  - **주제**
+    - 발표
+      - [`김영익`](https://www.meetup.com/ko-KR/awskrug/members/246148128/)님 - [야! 너두 성능 테스트 할 수 있어](https://www.slideshare.net/youngick/ss-251345424)
+
+</details>
+
+<details>
   <summary>50th meetup - <b>SRE/DevOps 신입으로 1년간 근무하며 겪은 경험담</b></summary>
 
   ### `50th meetup`
