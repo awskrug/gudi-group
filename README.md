@@ -21,6 +21,27 @@
 # Meetups
 ## 2022년
 <details>
+  <summary>52th meetup - <b>시작하는 엔지니어를 위한 AWS 보안</b></summary>
+
+  ### `52th meetup`
+  - **주최**
+    - [2022년 7월 19일 / 구트아카데미 - 서울 구로구 시흥대로163길 33 주호타워 2층 3강의실](https://www.meetup.com/ko-KR/awskrug/events/286993904/)
+  - **주제**
+    - 발표
+      - [`정태환`](https://linuxer.name/2020/07/linuxer/)님 - [시작하는 엔지니어를 위한 AWS 보안](./resources/AWS_security.pdf)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/e/1/0/highres_505668656.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/e/0/c/600_505668652.jpeg" width="400"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/e/0/e/600_505668654.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/e/0/d/600_505668653.jpeg" width="400"/>
+  <br>
+</details>
+
+<details>
   <summary>51th meetup - <b>야! 너두 성능 테스트 할 수 있어</b></summary>
 
   ### `51th meetup`
