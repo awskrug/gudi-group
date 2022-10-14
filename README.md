@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-file -->
 # AWSKRUG #gudi(구로디지털) 모임
 
-<img src="images/awskrug_gudi_icon.png" width="400"/>
+<img src="images/awskrug_gudi_icon.png" width="350"/>
 
 - since 2017
 - [AWSKRUG Facebook Link](https://www.facebook.com/groups/awskrug/)
@@ -21,6 +21,27 @@
 # Meetups
 ## 2022년
 <details>
+  <summary>53th meetup - <b>저비용으로 서버리스 웹서비스 만들기</b></summary>
+
+  ### `53th meetup`
+  - **주최**
+    - [2022년 10월 14일 / 구트아카데미 - 서울 구로구 시흥대로163길 33 주호타워 2층 3강의실](https://www.meetup.com/ko-KR/awskrug/events/288791780/)
+  - **주제**
+    - 발표
+      - [`김한성`]()님 - [저비용으로 서버리스 웹서비스 만들기](./resources/221014_serverless_with_lowcost.pdf)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/9/6/6/highres_507782406.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/9/6/4/highres_507782404.jpeg" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/9/6/a/600_507782410.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/9/6/5/highres_507782405.jpeg" width="350"/>
+  <br>
+</details>
+
+<details>
   <summary>52th meetup - <b>시작하는 엔지니어를 위한 AWS 보안</b></summary>
 
   ### `52th meetup`
@@ -32,12 +53,12 @@
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/e/1/0/highres_505668656.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/b/e/0/c/600_505668652.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/e/1/0/highres_505668656.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/e/0/c/600_505668652.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/e/0/e/600_505668654.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/b/e/0/d/600_505668653.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/e/0/e/600_505668654.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/e/0/d/600_505668653.jpeg" width="350"/>
   <br>
 </details>
 
@@ -88,7 +109,7 @@
       - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [ELK Stack - Log 처리 속도 개선기](https://www.slideshare.net/StevenShim/how-to-improve-elk-log-pipeline-performance)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/e/1/6/e/600_500277710.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/e/1/6/e/600_500277710.jpeg" width="350"/>
   <br>
 
 </details>
@@ -222,12 +243,12 @@
       - 네트워킹 및 다음 주제 논의: 라이브코딩, 패널토크, 삽질후기 등
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://secure.meetupstatic.com/photos/event/8/1/f/b/600_492753275.jpeg" width="400"/>
-    <img src="https://secure.meetupstatic.com/photos/event/8/1/f/d/600_492753277.jpeg" width="400"/>
+    <img src="https://secure.meetupstatic.com/photos/event/8/1/f/b/600_492753275.jpeg" width="350"/>
+    <img src="https://secure.meetupstatic.com/photos/event/8/1/f/d/600_492753277.jpeg" width="350"/>
     <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://secure.meetupstatic.com/photos/event/8/2/3/e/600_492753342.jpeg" width="400"/>
-    <img src="https://secure.meetupstatic.com/photos/event/8/2/2/9/600_492753321.jpeg" width="400"/>
+    <img src="https://secure.meetupstatic.com/photos/event/8/2/3/e/600_492753342.jpeg" width="350"/>
+    <img src="https://secure.meetupstatic.com/photos/event/8/2/2/9/600_492753321.jpeg" width="350"/>
     <br>
 </details>
 <details>
@@ -243,11 +264,11 @@
       - [Amplify API with Auth directive 스터디 문서](https://www.notion.so/geoseong/Auth-d5b57c8a5c8544f0a925b404fa302549)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/e/2/b/7/600_490498039.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/e/2/b/8/600_490498040.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/e/2/b/7/600_490498039.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/e/2/b/8/600_490498040.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/e/2/b/f/600_490498047.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/e/2/b/f/600_490498047.jpeg" width="350"/>
   <br>
 </details>
 <details>
@@ -305,7 +326,7 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/7/e/5/c/600_489152348.jpeg" width="200"/>
-  <img src="https://secure.meetupstatic.com/photos/event/7/e/5/a/600_489152346.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/7/e/5/a/600_489152346.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/7/e/5/6/600_489152342.jpeg" width="800"/>
@@ -326,18 +347,18 @@
       - [`박태성`](https://www.meetup.com/ko-KR/awskrug/members/184515293/profile)님 - [AWS Amplify로 클라우드 기반 모바일 앱 개발하기](https://github.com/geoseong/study-amplify-with-react-native)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/c/0/a/600_488388138.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/8/600_488388152.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/0/a/600_488388138.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/8/600_488388152.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/b/c/1/b/600_488388155.jpeg" width="800"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/c/600_488388156.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/d/600_488388157.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/c/600_488388156.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/d/600_488388157.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/e/600_488388158.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/c/1/e/600_488388158.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/b/c/1/f/600_488388159.jpeg" width="800"/>
@@ -356,14 +377,14 @@
       - [`한상효`](https://www.meetup.com/ko-KR/awskrug/members/267185743/profile/)님 - [인턴도 할 수 있는 Prometheus & 사용기](https://www.slideshare.net/SangHyoHan1/awskrug-prometheus-sanghyo-han)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/2/a/0/600_486600672.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/a/0/600_486600672.jpeg" width="350"/>
   <img src="https://secure.meetupstatic.com/photos/event/2/a/9/600_486600681.jpeg" width="200"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/2/a/a/600_486600682.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/2/a/b/600_486600683.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/a/a/600_486600682.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/a/b/600_486600683.jpeg" width="350"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/2/a/c/600_486600684.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/a/c/600_486600684.jpeg" width="350"/>
 </details>
 <details>
   <summary>31th meetup - <b>AWS EKS 톺아보기 Part 2 - EKS 잘써보기 (Hands-on 포함)</b></summary>
@@ -376,17 +397,17 @@
       - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [AWS EKS 톺아보기 Part 2 - EKS 잘써보기 (Hands-on 포함)](https://github.com/stevenshim/eks-hands-on/tree/master/description/part2)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/2/9/3/600_485865715.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/9/3/600_485865715.jpeg" width="350"/>
   <img src="https://secure.meetupstatic.com/photos/event/b/2/9/1/600_485865713.jpeg" width="200"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/e/600_485865710.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/c/600_485865708.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/e/600_485865710.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/c/600_485865708.jpeg" width="350"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/9/600_485865705.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/6/f/6/0/600_485848512.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/9/600_485865705.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/f/6/0/600_485848512.jpeg" width="350"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/8/600_485865704.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/2/8/8/600_485865704.jpeg" width="350"/>
   <img src="https://secure.meetupstatic.com/photos/event/b/2/9/0/600_485865712.jpeg" width="200"/>
 </details>
 <details>
@@ -400,8 +421,8 @@
       - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [AWS EKS 톺아보기 Part 1 - EKS 구축하기 (Hands-on 포함)](https://github.com/stevenshim/eks-hands-on/tree/master/description/part1)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/d/e/6/f/600_484976943.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/d/e/7/0/600_484976944.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/d/e/6/f/600_484976943.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/d/e/7/0/600_484976944.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/d/e/7/2/600_484976946.jpeg" width="200"/>
@@ -428,15 +449,15 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/7/6/e/9/600_483210441.jpeg" width="300"/>
-  <img src="https://secure.meetupstatic.com/photos/event/7/f/d/c/600_483152732.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/7/f/d/c/600_483152732.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/1/f/2/0/600_483187968.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/3/8/f/f/600_483194591.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/1/f/2/0/600_483187968.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/8/f/f/600_483194591.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/3/9/0/6/600_483194598.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/3/9/0/1/600_483194593.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/9/0/6/600_483194598.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/9/0/1/600_483194593.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/3/9/0/3/600_483194595.jpeg" width="#00"/>
@@ -455,11 +476,11 @@
       - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [Terraform으로 AWS Lambda 활용 주기적으로 EC2를 AMI로 백업 하기](https://github.com/stevenshim/lambda_ami_backup)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/2/f/1/600_482160753.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/2/f/a/600_482160762.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/f/1/600_482160753.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/f/a/600_482160762.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/3/3/c/600_482160828.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/3/c/600_482160828.jpeg" width="350"/>
 </details>
 
 <details>
@@ -475,14 +496,14 @@
     - 자발적인 뒷풀이타임 🍗🍻
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/f/3/8/600_481323896.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/f/3/b/600_481323899.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/f/3/8/600_481323896.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/f/3/b/600_481323899.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/f/5/c/600_481323932.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/f/5/d/600_481323933.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/f/5/c/600_481323932.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/f/5/d/600_481323933.jpeg" width="350"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/f/5/e/600_481323934.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/f/5/e/600_481323934.jpeg" width="350"/>
 </details>
 
 <details>
@@ -498,12 +519,12 @@
     - 자발적인 뒷풀이타임 🍣🍻
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/4/2/a/8/600_479417064.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/4/2/a/5/600_479417061.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/4/2/a/8/600_479417064.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/4/2/a/5/600_479417061.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/53525886_10213822219805944_7808256458297966592_n.jpg?_nc_cat=110&_nc_ht=scontent-icn1-1.xx&oh=e76172ffa8a0b2c887173d38ae08902d&oe=5D268993" width="400"/>
-  <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/54279493_2124094000992467_1737924822307962880_n.jpg?_nc_cat=108&_nc_ht=scontent-icn1-1.xx&oh=b610ab4d10e453a38432910fcb32700c&oe=5D11BD81" width="400"/>
+  <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/53525886_10213822219805944_7808256458297966592_n.jpg?_nc_cat=110&_nc_ht=scontent-icn1-1.xx&oh=e76172ffa8a0b2c887173d38ae08902d&oe=5D268993" width="350"/>
+  <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/54279493_2124094000992467_1737924822307962880_n.jpg?_nc_cat=108&_nc_ht=scontent-icn1-1.xx&oh=b610ab4d10e453a38432910fcb32700c&oe=5D11BD81" width="350"/>
 </details>
 
 <details>
@@ -519,7 +540,7 @@
       - 구디모임 회원분들이 앞으로 관심있어 하는 분야 파악 및 그에 대한 방향성에 대한 논의가 이루어졌습니다.
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/3/f/e/2/600_478636354.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/f/e/2/600_478636354.jpeg" width="350"/>
 </details>
 
 ## 2018년
@@ -536,11 +557,11 @@
       - 즐거운 치맥타임 🍻🍗
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/8/f/e/5/600_477036837.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/8/f/e/a/600_477036842.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/8/f/e/5/600_477036837.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/8/f/e/a/600_477036842.jpeg" width="350"/>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/8/f/e/b/600_477036843.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/8/f/e/b/600_477036843.jpeg" width="350"/>
 </details>
 
 <details>
@@ -554,8 +575,8 @@
       - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [Ansible & Packer 를 활용한 AMI 기반 배포 HandsOn (1/2)](https://github.com/stevenshim/ansible-packer-hands-on)
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/a/7/b/5/600_476322933.jpeg" width="400"/>
-  <img src="https://secure.meetupstatic.com/photos/event/a/7/b/6/600_476322934.jpeg" width="400"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/7/b/5/600_476322933.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/7/b/6/600_476322934.jpeg" width="350"/>
 </details>
 
 <details>
@@ -569,8 +590,8 @@
       - [`박태성`](https://www.meetup.com/ko-KR/awskrug/members/184515293/)님 - [AWS CodeStar를 이용한 serverless Application 구축](https://www.slideshare.net/TaeSeongPark2/awskrug-aws-codestar-serverless-application)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-21_1.jpg" width="400"/>
-  <img src="images/guro-21_2.jpg" width="400"/>
+  <img src="images/guro-21_1.jpg" width="350"/>
+  <img src="images/guro-21_2.jpg" width="350"/>
 </details>
 
 <details>
@@ -584,8 +605,8 @@
       - [`심호진`](https://www.meetup.com/ko-KR/awskrug/members/249060449/)님 - [Ansible을 활용한 Configuration Management Tool & 활용 사례](https://www.slideshare.net/StevenShim/ansible-configuration-management-tool-115582091)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-20_1.jpg" width="400"/>
-  <img src="images/guro-20_2.jpg" width="400"/>
+  <img src="images/guro-20_1.jpg" width="350"/>
+  <img src="images/guro-20_2.jpg" width="350"/>
 </details>
 
 <details>
@@ -601,7 +622,7 @@
       - 치맥 파티 🍻🍗
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-19_1.jpeg" width="400"/>
+  <img src="images/guro-19_1.jpeg" width="350"/>
 </details>
 
 <details>
@@ -649,8 +670,8 @@
       - [`이영경`](https://www.meetup.com/ko-KR/awskrug/members/221866187/)님 - [ASG 끝판왕 깨기](http://sori-nori.gitlab.io/youngkyung-done/ASG-1/)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-15_1.jpeg" width="400"/>
-  <img src="images/guro-15_2.jpeg" width="400"/>
+  <img src="images/guro-15_1.jpeg" width="350"/>
+  <img src="images/guro-15_2.jpeg" width="350"/>
 </details>
 
 <details>
@@ -689,8 +710,8 @@
       - [`류한진`](https://www.meetup.com/ko-KR/awskrug/members/217184134/)님 - [Cloudwatch with Slack(slack으로 일하기)](https://docs.google.com/presentation/d/e/2PACX-1vRqZexRpVH6W-filJJqUyaGRWZfBk94niotptPYHmqkgmnZQk0_dI1B3w7id_MvhYNcpeu134O8uirt/pub?start=false&loop=false&delayms=60000&slide=id.p)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-12_1.jpeg" width="400"/>
-  <img src="images/guro-12_2.jpeg" width="400"/>
+  <img src="images/guro-12_1.jpeg" width="350"/>
+  <img src="images/guro-12_2.jpeg" width="350"/>
 </details>
 
 <details>
@@ -715,7 +736,7 @@
       - [`김창겸`](https://www.meetup.com/ko-KR/awskrug/members/221873245/)님 - [RDS Aurora 생초보 unboxing](https://www.slideshare.net/changkyumkim/rds-aurora-unboxing-80367207)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="images/guro-10_1.jpeg" width="400"/>
+ <img src="images/guro-10_1.jpeg" width="350"/>
 </details>
 
 <details>
@@ -741,8 +762,8 @@
       - DevOps에 대한 생각을 가진 능동적이신 밋업 참가자분들 - [개발과 운영의 조화 DevOps](https://docs.google.com/presentation/d/1Edqu8gmXnX4wvXXCpfNbeq4LqfDVUfsbQsxstQt1Yfg/edit#slide=id.g2405689757_0_59)
     
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-shinchon-8.jpg" width="400"/>
-  <img src="images/guro-shinchon-8(1).jpg" width="400"/>
+  <img src="images/guro-shinchon-8.jpg" width="350"/>
+  <img src="images/guro-shinchon-8(1).jpg" width="350"/>
 </details>
 
 <details>
@@ -769,7 +790,7 @@
       - [`박관웅`](https://www.meetup.com/ko-KR/awskrug/members/204876774/)님 - [나는 “tyle”에서 AWS를 이렇게 구축(사용)했다.](https://www.slideshare.net/pouu69/tyle-aws)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-shinchon-6.jpg" width="400"/>
+  <img src="images/guro-shinchon-6.jpg" width="350"/>
 </details>
 
 <details>
@@ -784,7 +805,7 @@
       - [`장강홍`](https://www.meetup.com/ko-KR/awskrug/members/224352392/)님 - [금융권 클라우드 이용기](https://www.slideshare.net/secret/4ZRbX4mF8fC7G7)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-shinchon-5.jpg" width="400"/>
+  <img src="images/guro-shinchon-5.jpg" width="350"/>
 </details>
 
 <details>
@@ -799,7 +820,7 @@
       - [`고봉석`](https://www.meetup.com/ko-KR/awskrug/members/223436843/)님 - 덕후의 AWS를 이용한 팬사이트 구축 실패 경험기
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-shinchon-4.jpg" width="400"/>
+  <img src="images/guro-shinchon-4.jpg" width="350"/>
 </details>
 
 <details>
@@ -814,7 +835,7 @@
       - [`이영경`](https://www.meetup.com/ko-KR/awskrug/members/221866187/)님 - 덕후의 AWS를 이용한 팬사이트 구축 실패 경험기
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-shinchon_3.jpeg" width="400"/>
+  <img src="images/guro-shinchon_3.jpeg" width="350"/>
 </details>
 
 <details>
@@ -830,7 +851,7 @@
       - [`정도현`](https://www.meetup.com/ko-KR/awskrug/members/216996214/)님 - [EC2 Deep Dive](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-deep-dive-on-amazon-ec2-instances-featuring-performance-optimization-best-practices-cmp301)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-shinchon_2.jpg" width="400" />
+  <img src="images/guro-shinchon_2.jpg" width="350" />
 </details>
 
 <details>
@@ -845,5 +866,5 @@
       - [`신승우`](https://www.meetup.com/ko-KR/awskrug/members//)님 - 이미지스토리지 AWS S3로 이사 가기
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/guro-shinchon_1.jpg" width="400" />
+  <img src="images/guro-shinchon_1.jpg" width="350" />
 </details>
