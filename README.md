@@ -21,6 +21,26 @@
 # Meetups
 ## 2022년
 <details>
+  <summary>54th meetup - <b>데이터 레이크하우스</b></summary>
+
+  ### `54th meetup`
+  - **주최**
+    - [2022년 11월 14일 / 동양미래대학교 6호관 110호](https://www.meetup.com/ko-KR/awskrug/events/289457416/)
+  - **주제**
+    - 발표
+      - [`김정희`]()님 - [데이터 레이크하우스](./resources/221114_datalakehouse.pdf)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/c/5/7/9/highres_508610553.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/c/5/7/8/highres_508610552.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/c/5/7/a/highres_508610554.webp" width="350"/>
+  <br>
+</details>
+
+<details>
   <summary>53th meetup - <b>저비용으로 서버리스 웹서비스 만들기</b></summary>
 
   ### `53th meetup`
