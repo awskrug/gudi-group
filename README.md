@@ -19,6 +19,31 @@
   - [발표에 대한 부담감에 대해서](https://github.com/awskrug/gudi-group/issues/1)
 
 # Meetups
+## 2023년
+<details>
+  <summary>55th meetup - <b>혼자서 커뮤니티 귀동냥하며 만든 Next.js & Amplify & serverless framework 웹 플랫폼 서비스 구현(삽질) 후기 - Full ver.</b></summary>
+
+  ### `55th meetup`
+  - **주최**
+    - [2023년 01월 25일 / 구트아카데미 3층 8강의실](https://www.meetup.com/ko-KR/awskrug/events/290976294/)
+  - **주제**
+    - 발표
+      - [`박태성`](https://www.meetup.com/ko-KR/awskrug/members/184515293/)님 - [혼자서 커뮤니티 귀동냥하며 만든 Next.js & Amplify & serverless framework 웹 플랫폼 서비스 구현(삽질) 후기 - Full ver.](https://www.slideshare.net/TaeSeongPark2/nextjs-amplify-serverless-framework-full-ver)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/9/d/9/highres_510134809.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/9/d/a/highres_510134810.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/9/d/b/highres_510134811.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/9/d/f/highres_510134815.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/9/d/e/highres_510134814.webp" width="350"/>
+  <br>
+</details>
+
 ## 2022년
 <details>
   <summary>54th meetup - <b>데이터 레이크하우스</b></summary>
@@ -45,7 +70,7 @@
 
   ### `53th meetup`
   - **주최**
-    - [2022년 10월 14일 / 구트아카데미 - 서울 구로구 시흥대로163길 33 주호타워 2층 3강의실](https://www.meetup.com/ko-KR/awskrug/events/288791780/)
+    - [2022년 10월 14일 / 구트아카데미 - 서울 구로구 시흥대로163길 33 주호타워 3층 8강의실](https://www.meetup.com/ko-KR/awskrug/events/288791780/)
   - **주제**
     - 발표
       - [`김한성`]()님 - [저비용으로 서버리스 웹서비스 만들기](./resources/221014_serverless_with_lowcost.pdf)
