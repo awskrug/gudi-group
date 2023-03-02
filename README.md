@@ -20,6 +20,30 @@
 
 # Meetups
 ## 2023년
+
+<details>
+  <summary>56th meetup - <b>Imply on AWS 로 구현하는 스트리밍 데이터 실시간 분석</b></summary>
+
+  ### `56th meetup`
+  - **주최**
+    - [2023년 02월 28일 / 프로그래머스 2층 Torvalds/Turing 강의실](https://www.meetup.com/awskrug/events/291284183/)
+  - **주제**
+    - 발표
+      - [`이기훈`]() 이사님(Imply) - [Imply on AWS 로 구현하는 스트리밍 데이터 실시간 분석](./resources/230228_druid_talk_imply.pdf)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/5/b/7/a/highres_510983418.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/5/b/7/8/highres_510983416.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/5/b/7/7/highres_510983415.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/5/b/7/5/highres_510983413.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/5/b/7/6/highres_510983414.webp" width="350"/>
+  <br>
+</details>
 <details>
   <summary>55th meetup - <b>혼자서 커뮤니티 귀동냥하며 만든 Next.js & Amplify & serverless framework 웹 플랫폼 서비스 구현(삽질) 후기 - Full ver.</b></summary>
 
