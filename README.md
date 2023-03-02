@@ -29,7 +29,7 @@
     - [2023년 02월 28일 / 프로그래머스 2층 Torvalds/Turing 강의실](https://www.meetup.com/awskrug/events/291284183/)
   - **주제**
     - 발표
-      - [`이기훈`]() 이사님(Imply) - [Imply on AWS 로 구현하는 스트리밍 데이터 실시간 분석](./resources/230228_druid_talk_imply.pdf)
+      - [`이기훈`](https://www.linkedin.com/in/keehoonlee/) 이사님(Imply) - [Imply on AWS 로 구현하는 스트리밍 데이터 실시간 분석](./resources/230228_druid_talk_imply.pdf)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
