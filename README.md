@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-file -->
 # AWSKRUG #gudi(구로디지털) 모임
 
-<img src="images/awskrug_gudi_icon.png" width="350"/>
+<img src="awskrug_gudi_logo.png" width="350"/>
 
 - since 2017
 - [AWSKRUG Facebook Link](https://www.facebook.com/groups/awskrug/)
@@ -20,6 +20,25 @@
 
 # Meetups
 ## 2023년
+
+<details>
+  <summary>Collaboration with <a href="https://github.com/awskrug/architecture-group">#architecture</a> meetup - <b>컨플루언트 클라우드(카프카 서버리스 서비스)로 데이터 연계하기</b></summary>
+
+  ### `Collaboration with `<a href="https://github.com/awskrug/architecture-group">#architecture</a>` meetup`
+  - **주최**
+    - [2023년 03월 30일 / 강남 교보타워 11층 B구역 당근마켓](https://www.meetup.com/awskrug/events/292066662/)
+  - **주제**
+    - 발표
+      - [`황주필(컨플루언트 코리아)`]() - [컨플루언트 클라우드(카프카 서버리스 서비스)로 데이터 연계하기](./resources/컨플루언트_클라우드(카프카_서버리스_서비스)로_데이터_연계하기.pdf)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/d/7/e/2/highres_511735266.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/d/7/e/1/highres_511735265.webp" width="350"/>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/d/7/e/3/highres_511735267.webp" width="350"/>
+</details>
 
 <details>
   <summary>56th meetup - <b>Imply on AWS 로 구현하는 스트리밍 데이터 실시간 분석</b></summary>
