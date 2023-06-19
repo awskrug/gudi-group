@@ -22,6 +22,20 @@
 ## 2023년
 
 <details>
+  <summary>57th meetup - <b>토론시간 - 내가 생각하는 데브옵스 업무의 범위는?</b></summary>
+
+  ### `57th meetup`
+  - **주최**
+    - [2023년 06월 19일 / 구트아카데미 - 서울 구로구 시흥대로163길 33 주호타워 2층 3강의실](https://www.meetup.com/awskrug/events/293926366/)
+  - **주제**
+    - 토론시간: [내가 생각하는 데브옵스 업무의 범위는?](https://docs.google.com/presentation/d/1YcMbyWObsX_Q4cuQpPx7mRMtEgw9-jvgaqPYHteCtvE/edit#slide=id.p)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/4/a/8/a/highres_513799082.webp" width="350"/>
+  <br>
+</details>
+
+<details>
   <summary>Collaboration with <a href="https://github.com/awskrug/architecture-group">#architecture</a> meetup - <b>컨플루언트 클라우드(카프카 서버리스 서비스)로 데이터 연계하기</b></summary>
 
   ### `Collaboration with `<a href="https://github.com/awskrug/architecture-group">#architecture</a>` meetup`
