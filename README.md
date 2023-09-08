@@ -22,6 +22,27 @@
 ## 2023년
 
 <details>
+  <summary>58th meetup - <b>데린이를 위한 공부팁 (1주 내 자격증 2개 취득 후기)</b></summary>
+
+  ### `58th meetup`
+  - **주최**
+    - [2023년 09월 07일 / 알리바바 커피 - 서울 구로구 디지털로31길 20](https://www.meetup.com/ko-KR/awskrug/events/295729974/)
+  - **주제**
+    - 발표
+      - [`김영익`](https://www.meetup.com/ko-KR/awskrug/members/246148128/)님 - [데린이를 위한 공부팁 (1주 내 자격증 2개 취득 후기)](./resources/230907_데린이를_위한_꿀_팁.pdf)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/e/0/5/1/highres_515697425.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/e/0/4/f/highres_515697423.jpeg" width="350"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/e/0/4/e/highres_515697422.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/e/0/4/d/highres_515697421.jpeg" width="350"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/e/0/4/c/highres_515697420.jpeg" width="350"/>
+  <br>
+</details>
+
+<details>
   <summary>57th meetup - <b>토론시간 - 내가 생각하는 데브옵스 업무의 범위는?</b></summary>
 
   ### `57th meetup`
