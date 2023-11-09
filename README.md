@@ -26,6 +26,24 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
 ## 2023년
 
 <details>
+  <summary>59th meetup - <b>App runner for production (best fit for startup)</b></summary>
+
+  ### `59th meetup`
+  - **주최**
+    - [2023년 11월 09일 / 아이디어샘 - 서울 구로구 디지털로26길 98](https://www.meetup.com/ko-KR/awskrug/events/297109485/)
+  - **주제**
+    - 발표
+      - [`정남훈`](https://www.linkedin.com/in/namhoon-jeong-b75713144/?originalSubdomain=kr)님 - [App runner for production (best fit for startup)](https://docs.google.com/presentation/d/1pxzMx1Dec-s5pFF6yDMl4KK1N-aYCJuuknyYIij0vLM/edit#slide=id.p)
+        - [Google Slide(발표자 노트 포함)](https://docs.google.com/presentation/d/1pxzMx1Dec-s5pFF6yDMl4KK1N-aYCJuuknyYIij0vLM/edit#slide=id.p)
+        - [PPTX(발표자 노트 포함)](./resources/231109_App_runner_for_production.pptx)
+        - [PDF(발표자노트X)](./resources/231109_App_runner_for_production.pdf)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/c/2/9/highres_517167689.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/6/c/2/8/highres_517167688.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>58th meetup - <b>데린이를 위한 공부팁 (1주 내 자격증 2개 취득 후기)</b></summary>
 
   ### `58th meetup`
