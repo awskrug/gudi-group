@@ -26,6 +26,29 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
 ## 2023년
 
 <details>
+  <summary>60th meetup - <b>토론: 비용절감, 다운타임 최소 업데이트방법, RDS 이슈, ...</b></summary>
+
+  ### `60th meetup`
+  - **주최**
+    - [2024년 01월 30일 / 아이디어샘 - 서울 구로구 디지털로26길 98](https://www.meetup.com/ko-KR/awskrug/events/298626101)
+  - **토론**
+    > [**토론 기록**](https://docs.google.com/presentation/d/1MnGhanaD56g5sB2dbHyBiSxOCGMJN72LdUTApUjnseg/edit?usp=sharing)
+    - 비용 절감
+    - downtime을 최소화 하는 업데이트 방법 (EKS, RDS)
+        - EKS, RDS
+    - VGW CGW(Virtual GateWay, Cloud GateWay) 사용 경험?
+    - RDS Performance Insights, Log 생성 이슈 관련 사례?
+    - 국내 CDN -> CloudFront 전환사례?
+    - AWS 사용에서 LLM 사용하는 사례?
+    - RDS 타입 선택할때의 기준?
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/d/6/2/1/highres_518814817.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/d/6/2/2/highres_518814818.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>59th meetup - <b>App runner for production (best fit for startup)</b></summary>
 
   ### `59th meetup`
