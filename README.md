@@ -23,7 +23,8 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
   - [발표에 대한 부담감에 대해서](https://github.com/awskrug/gudi-group/issues/1)
 
 # Meetups
-## 2023년
+
+## 2024년
 
 <details>
   <summary>60th meetup - <b>토론: 비용절감, 다운타임 최소 업데이트방법, RDS 이슈, ...</b></summary>
@@ -47,6 +48,8 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
   <img src="https://secure.meetupstatic.com/photos/event/d/6/2/1/highres_518814817.jpeg" width="350"/>
   <img src="https://secure.meetupstatic.com/photos/event/d/6/2/2/highres_518814818.jpeg" width="350"/>
 </details>
+
+## 2023년
 
 <details>
   <summary>59th meetup - <b>App runner for production (best fit for startup)</b></summary>
