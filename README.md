@@ -27,6 +27,28 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
 ## 2024년
 
 <details>
+  <summary>61th meetup - <b>토론: S3 비용, S3 트래픽 분산, 실시간 게임 대전 아키텍쳐, 신규 서비스: Application Composer & App Studio, ...</b></summary>
+
+  ### `61th meetup`
+  - **주최**
+    - [2024년 09월 11일 / 아이디어샘 - 서울 구로구 디지털로26길 98](https://www.meetup.com/ko-KR/awskrug/events/302859860)
+  - **토론**
+    > [**토론 기록**](https://docs.google.com/presentation/d/1IvVOZE5ihLxZyc3ete9w_FjL93ycWpK-horq9oEreas/edit#slide=id.p)
+    - S3 비용
+    - 실시간 게임 대전 아키텍쳐 및 게임엔진
+    - S3 트래픽 몰렸을때 분산시키는 방법
+    - Minio
+    - 신규 서비스: Application Composer & App Studio
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/7/4/d/highres_523445965.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/1/7/4/f/highres_523445967.jpeg" width="350"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/7/4/e/highres_523445966.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>60th meetup - <b>토론: 비용절감, 다운타임 최소 업데이트방법, RDS 이슈, ...</b></summary>
 
   ### `60th meetup`
