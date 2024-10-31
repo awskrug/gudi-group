@@ -27,6 +27,22 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
 ## 2024년
 
 <details>
+  <summary>62th meetup - <b>AWS App Studio 사용후기</b></summary>
+
+  ### `62th meetup`
+  - **주최**
+    - [2024년 10월 30일 / 아이디어샘 - 서울 구로구 디지털로26길 98](https://www.meetup.com/ko-KR/awskrug/events/303956766)
+  - **주제**
+    - 발표
+      - [`박태성`](https://www.meetup.com/ko-KR/members/184515293/) - [AWS App Studio 사용후기](./resources/241030_first_expression_AWS_App_Studio.pdf)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/3/0/c/e/highres_524412494.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/3/0/b/f/highres_524412479.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>61th meetup - <b>토론: S3 비용, S3 트래픽 분산, 실시간 게임 대전 아키텍쳐, 신규 서비스: Application Composer & App Studio, ...</b></summary>
 
   ### `61th meetup`
