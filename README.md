@@ -24,6 +24,28 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
 
 # Meetups
 
+## 2025년
+
+<details>
+  <summary>63th meetup - <b>2024 AWS re:Invent 커뮤니티 프로그램 참가 후기</b></summary>
+
+  ### `63th meetup`
+  - **주최**
+    - [2025년 02월 18일 / 웍앤코 공유오피스 B3F 하바나 - 구로구 디지털로34길 55 코오롱싸이언스밸리2차](https://www.meetup.com/ko-KR/awskrug/events/305916889/)
+  - **주제**
+    - 발표
+      - [`박태성`](https://www.meetup.com/ko-KR/members/184515293/) - [2024 AWS re:Invent 커뮤니티 프로그램 참가 후기](https://docs.google.com/presentation/d/1mRHSwVyZLPhvYh0-ELyBpBl8TdRBEXmEmuuWyuaKowk)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/4/f/f/e/highres_526340478.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/4/f/f/f/highres_526340479.jpeg" width="350"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/5/0/0/0/highres_526340480.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/5/0/0/1/highres_526340481.jpeg" width="350"/>
+</details>
+
+
 ## 2024년
 
 <details>
