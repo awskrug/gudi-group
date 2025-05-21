@@ -26,6 +26,24 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
 
 ## 2025년
 
+
+<details>
+  <summary>64th meetup - <b>Amazon Q Developer 사용후기 & 토론: Vibe Coding</b></summary>
+
+  ### `64th meetup`
+  - **주최**
+    - [2025년 05월 20일 / 아이디어샘 - 서울 구로구 디지털로26길 98](https://www.meetup.com/ko-KR/awskrug/events/307797160/)
+  - **주제**
+    - 라이트닝 토크
+      - [`박태성`](https://www.meetup.com/ko-KR/awskrug/members/184515293/) - [Amazon Q Developer 사용후기](https://docs.google.com/presentation/d/1Nt0rfiqVMIF6L16loEZAdLj0BPUGhL3mUXtXuqC6lMo/edit?usp=sharing)
+    - 토론: Vibe Coding에 대한 참가자들의 생각과 경험 공유
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/5/7/d/5/highres_528082485.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/5/7/d/6/highres_528082486.jpeg" width="350"/>
+</details>
+
 <details>
   <summary>63th meetup - <b>2024 AWS re:Invent 커뮤니티 프로그램 참가 후기</b></summary>
 
