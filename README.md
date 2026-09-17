@@ -41,11 +41,11 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
       - [`이수석`](https://www.meetup.com/members/402565792/group/20402758/)님 - [AI Summit Seoul & Expo 2026 참석 후기]
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.meetup.com/awskrug/photos/36154682/535972823/" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/c/e/5/7/highres_535972823.webp" width="350"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.meetup.com/awskrug/photos/36154682/535972824/" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/c/e/5/8/highres_535972824.webp" width="350"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.meetup.com/awskrug/photos/36154682/535972825/" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/c/e/5/9/highres_535972825.webp" width="350"/>
 </details>
 <details>
   <summary>68th meetup - <b>Slack으로 EKS 운영하고, FIS로 카오스 테스트하기</b></summary>
