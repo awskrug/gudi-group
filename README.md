@@ -34,7 +34,9 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
     - [2026년 09월 03일 / 구로디지털단지역 시너지 스터디룸](https://www.meetup.com/awskrug/events/315946905)
   - **주제**
     - 발표:
-      - [`이수석,송하람`] (https://www.meetup.com/members/402565792/group/20402758/, https://www.meetup.com/members/475769154/group/20402758/)님 - [DevSecOps 엔지니어 및 개발자가 AWS 환경에서 안전하고 생산적으로 온보딩하기 위한 체크리스트] (https://github.com/awskrug/gudi-group/blob/master/resources/260903_DevSecOps_%EA%B0%9C%EB%B0%9C%EC%9E%90_%EC%98%A8%EB%B3%B4%EB%94%A9_%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8_%EC%9D%B4%EC%88%98%EC%84%9D_%EC%86%A1%ED%95%98%EB%9E%8C.pdf)
+      - [`이수석`](https://www.meetup.com/members/402565792/group/20402758/)님
+      - [`송하람`](https://www.meetup.com/members/475769154/group/20402758/)님
+      - [DevSecOps 엔지니어 및 개발자가 AWS 환경에서 안전하고 생산적으로 온보딩하기 위한 체크리스트] (https://github.com/awskrug/gudi-group/blob/master/resources/260903_DevSecOps_%EA%B0%9C%EB%B0%9C%EC%9E%90_%EC%98%A8%EB%B3%B4%EB%94%A9_%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8_%EC%9D%B4%EC%88%98%EC%84%9D_%EC%86%A1%ED%95%98%EB%9E%8C.pdf)
     - 발표: 
       - [`이수석`](https://www.meetup.com/members/402565792/group/20402758/)님 - [AI Summit Seoul & Expo 2026 참석 후기]
 
