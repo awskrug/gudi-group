@@ -27,6 +27,41 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
 ## 2026년
 
 <details>
+  <summary>70th meetup - <b>AWS Singapore Community Day에서 발표한 썰</b></summary>
+
+  ### `70th meetup`
+  - **주최**
+    - [2026년 10월 15일 / 여의도 파크원 스파크플러스](https://www.meetup.com/awskrug/events/316565592)
+  - **주제**
+    - 발표:
+      - [`박태성`](https://www.meetup.com/members/184515293/group/20402758/)님 - [AWS Singapore Community Day에서 발표한 썰]
+    - 발표: 
+      - [`주원진`](https://www.meetup.com/members/478470418/group/20402758/)님 - [AWS Support Japan 에서 경험한 클라우드 트러블슈팅 사고방식(컨테이너 서비스를 중심으로)]
+    - 발표: 
+      - [`최도윤`](https://www.meetup.com/members/484459481/group/20402758/)님
+      - [AI 활용의 단위는 프롬프트가 아닌, 재사용 가능한 자산 (부제: AI 활용 경험 공유, 1년 뒤에 내가 없어도 되는 팀)] (https://github.com/awskrug/gudi-group/blob/master/resources/261016_1%EB%85%84%20%EB%92%A4%EC%97%90%20%EC%A0%9C%EA%B0%80%20%EC%9D%B4%20%EC%9E%90%EB%A6%AC%EC%97%90%20%EC%97%86%EC%96%B4%EB%8F%84%20%EB%90%98%EA%B2%8C%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EB%B2%95.pdf)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/b/highres_536626587.webp">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/c/highres_536626588.webp">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626589.webp">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/e/highres_536626590.webp">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626591.webp">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626592.webp">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626593.webp">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626594.webp">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626595.webp">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626596.webp">
+</details>
+<details>
   <summary>69th meetup - <b>DevSecOps 엔지니어 및 개발자가 AWS 환경에서 안전하고 생산적으로 온보딩하기 위한 체크리스트</b></summary>
 
   ### `69th meetup`
