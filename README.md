@@ -35,7 +35,7 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
   - **주제**
     - 발표:
       - [`박태성`](https://www.meetup.com/members/184515293/group/20402758/)님 - [AWS Singapore Community Day에서 발표한 썰]
-    - 발표: 
+    - 라이트닝 토크: 
       - [`주원진`](https://www.meetup.com/members/478470418/group/20402758/)님 - [AWS Support Japan 에서 경험한 클라우드 트러블슈팅 사고방식(컨테이너 서비스를 중심으로)]
     - 발표: 
       - [`최도윤`](https://www.meetup.com/members/484459481/group/20402758/)님
