@@ -27,39 +27,38 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
 ## 2026년
 
 <details>
-  <summary>70th meetup - <b>AWS Singapore Community Day에서 발표한 썰</b></summary>
+  <summary>70th meetup - <b>AI 활용의 단위는 프롬프트가 아닌, 재사용 가능한 자산 (부제: AI 활용 경험 공유, 1년 뒤에 내가 없어도 되는 팀) with 라이트닝토크 2</b></summary>
 
   ### `70th meetup`
   - **주최**
     - [2026년 10월 15일 / 여의도 파크원 스파크플러스](https://www.meetup.com/awskrug/events/316565592)
   - **주제**
     - 발표:
-      - [`박태성`](https://www.meetup.com/members/184515293/group/20402758/)님 - [AWS Singapore Community Day에서 발표한 썰]
+      - [`박태성`](https://www.meetup.com/members/184515293/group/20402758/)님 - <a href="./resources/261016_AWS_Singapore_Community Day2026에서_발표한썰_박태성.pdf">AWS Singapore Community Day에서 발표한 썰</a>
     - 라이트닝 토크: 
       - [`주원진`](https://www.meetup.com/members/478470418/group/20402758/)님 - [AWS Support Japan 에서 경험한 클라우드 트러블슈팅 사고방식(컨테이너 서비스를 중심으로)]
     - 발표: 
-      - [`최도윤`](https://www.meetup.com/members/484459481/group/20402758/)님
-      - [AI 활용의 단위는 프롬프트가 아닌, 재사용 가능한 자산 (부제: AI 활용 경험 공유, 1년 뒤에 내가 없어도 되는 팀)] (https://github.com/awskrug/gudi-group/blob/master/resources/261016_1%EB%85%84%20%EB%92%A4%EC%97%90%20%EC%A0%9C%EA%B0%80%20%EC%9D%B4%20%EC%9E%90%EB%A6%AC%EC%97%90%20%EC%97%86%EC%96%B4%EB%8F%84%20%EB%90%98%EA%B2%8C%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EB%B2%95.pdf)
+      - [`최도윤`](https://www.meetup.com/members/484459481/group/20402758/)님 - <a href="./resources/261016_1년 뒤에 제가 이 자리에 없어도 되게 만드는 법.pdf">AI 활용의 단위는 프롬프트가 아닌, 재사용 가능한 자산 (부제: AI 활용 경험 공유, 1년 뒤에 내가 없어도 되는 팀)</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/b/highres_536626587.webp">
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/b/highres_536626587.webp?overlay=1" width="350">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/c/highres_536626588.webp">
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/c/highres_536626588.webp?overlay=1" width="350">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626589.webp">
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626589.webp?overlay=1" width="350">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/e/highres_536626590.webp">
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/e/highres_536626590.webp?overlay=1" width="350">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626591.webp">
+  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/f/highres_536626591.webp?overlay=1" width="350">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626592.webp">
+  <img src="https://secure.meetupstatic.com/photos/event/b/6/0/0/highres_536626592.webp?overlay=1" width="350">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626593.webp">
+  <img src="https://secure.meetupstatic.com/photos/event/b/6/0/1/highres_536626593.webp?overlay=1" width="350">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626594.webp">
+  <img src="https://secure.meetupstatic.com/photos/event/b/6/0/2/highres_536626594.webp?overlay=1" width="350">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626595.webp">
+  <img src="https://secure.meetupstatic.com/photos/event/b/6/0/3/highres_536626595.webp?overlay=1" width="350">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/b/5/f/d/highres_536626596.webp">
+  <img src="https://secure.meetupstatic.com/photos/event/b/6/0/4/highres_536626596.webp?overlay=1" width="350">
 </details>
 <details>
   <summary>69th meetup - <b>DevSecOps 엔지니어 및 개발자가 AWS 환경에서 안전하고 생산적으로 온보딩하기 위한 체크리스트</b></summary>
@@ -69,9 +68,7 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
     - [2026년 09월 03일 / 구로디지털단지역 시너지 스터디룸](https://www.meetup.com/awskrug/events/315946905)
   - **주제**
     - 발표:
-      - [`이수석`](https://www.meetup.com/members/402565792/group/20402758/)님
-      - [`송하람`](https://www.meetup.com/members/475769154/group/20402758/)님
-      - [DevSecOps 엔지니어 및 개발자가 AWS 환경에서 안전하고 생산적으로 온보딩하기 위한 체크리스트] (https://github.com/awskrug/gudi-group/blob/master/resources/260903_DevSecOps_%EA%B0%9C%EB%B0%9C%EC%9E%90_%EC%98%A8%EB%B3%B4%EB%94%A9_%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8_%EC%9D%B4%EC%88%98%EC%84%9D_%EC%86%A1%ED%95%98%EB%9E%8C.pdf)
+      - [`이수석`](https://www.meetup.com/members/402565792/group/20402758/)님 & [`송하람`](https://www.meetup.com/members/475769154/group/20402758/)님: <a href="./resources/260903_DevSecOps_개발자_온보딩_체크리스트_이수석_송하람.pdf">DevSecOps 엔지니어 및 개발자가 AWS 환경에서 안전하고 생산적으로 온보딩하기 위한 체크리스트</a>
     - 발표: 
       - [`이수석`](https://www.meetup.com/members/402565792/group/20402758/)님 - [AI Summit Seoul & Expo 2026 참석 후기]
 
