@@ -36,7 +36,7 @@ AWS를 사용하고자 하는 사람부터 숙련자까지 공유하고 싶은 �
     - 발표:
       - [`박태성`](https://www.meetup.com/members/184515293/group/20402758/)님 - <a href="./resources/261016_AWS_Singapore_Community Day2026에서_발표한썰_박태성.pdf">AWS Singapore Community Day에서 발표한 썰</a>
     - 라이트닝 토크: 
-      - [`주원진`](https://www.meetup.com/members/478470418/group/20402758/)님 - [AWS Support Japan 에서 경험한 클라우드 트러블슈팅 사고방식(컨테이너 서비스를 중심으로)]
+      - [`주원진`](https://www.meetup.com/members/478470418/group/20402758/)님 - <a href="./resources/261016_AWS%20Japan%20Support%20%EC%97%90%EC%84%9C%20%EA%B2%BD%ED%97%98%ED%95%9C%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85%20%EC%82%AC%EA%B3%A0%EB%B0%A9%EC%8B%9D.pdf">AWS Support Japan 에서 경험한 클라우드 트러블슈팅 사고방식(컨테이너 서비스를 중심으로)</a>
     - 발표: 
       - [`최도윤`](https://www.meetup.com/members/484459481/group/20402758/)님 - <a href="./resources/261016_1년 뒤에 제가 이 자리에 없어도 되게 만드는 법.pdf">AI 활용의 단위는 프롬프트가 아닌, 재사용 가능한 자산 (부제: AI 활용 경험 공유, 1년 뒤에 내가 없어도 되는 팀)</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
